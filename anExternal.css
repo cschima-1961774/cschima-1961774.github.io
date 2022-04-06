@@ -1,0 +1,7 @@
+.special {
+  width: 100px;
+  height: 100px;
+  border: 2px solid red;
+  border-radius: 25px;
+  float: right;
+}
